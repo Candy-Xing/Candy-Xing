@@ -23,7 +23,7 @@ I have successfully delivered **large-scale IT projects** across global banking 
 - **Service Management:** ITIL, ServiceNow, Incident & Change Management  
 
 ## 📫 Let's Connect!  
-- **GitHub:** [github.com/your-username](https://github.com/Candy-Xing)  
+- **GitHub:** (https://github.com/Candy-Xing)  
 - **Email:**   
 
 🚀 **Passionate about building scalable, resilient IT solutions that drive business success.**  
